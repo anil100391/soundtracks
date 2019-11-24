@@ -1,5 +1,6 @@
 |**Track**|**Movie**|**Artist**|
 |:---|:---|:---|
+|***A Window to the Past***                                   |*Harry Potter*   |John Williams|
 |***Becoming One of the People-Becoming One With Neytiri***   |*Avatar*         |James Horner|
 |***City of Stars***                                          |*La La Land*     |E. Stone, R. Gosling|
 |***Hedwig's Theme***                                         |*Harry Potter*   |John Williams|
